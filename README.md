@@ -14,6 +14,8 @@
 ![](https://github.com/2024-1-NADS1-B/Projeto6/blob/main/imagens/b1a69324-107f-4ed0-8a6b-f78b9694f82b.jpg)
 https://github.com/2024-2-NADS2/Projeto1
 ## Descrição
+![inovasaude](https://github.com/user-attachments/assets/a8b1738e-0a62-41e2-a2ce-922b4c5d6961)
+
 <p> O projeto tem como objetivo </p>
 
 O projeto tem como função principal a acessibilidade para todos com agendamentos medicos, informações a respeito de exames, consultas, convênio médico(informações a respeito do convênio dar cobertura para o hospital ou não). Além de funções secundarias como doações tanto de utensílios para o uso dos pacientes, quanto doação de sangue.
