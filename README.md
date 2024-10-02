@@ -8,7 +8,7 @@
 
 ## Nome do Grupo -Inova Saúde
 
-## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes</a>, <a href="https://github.com/luiza1205">Luiza Domingues Chaveiro Correia</a>, <a "Daniela Pauzer </a>, <a >Enzo Sangiacomo</a>
+## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes</a>, <a href="https://github.com/luiza1205">Luiza Domingues Chaveiro Correia</a>, Daniela Pauzer </a>, <a >Enzo Sangiacomo</a>
 
 ## Professores Orientadores: Victor Rosetti
 ![](https://github.com/2024-1-NADS1-B/Projeto6/blob/main/imagens/b1a69324-107f-4ed0-8a6b-f78b9694f82b.jpg)
