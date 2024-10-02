@@ -8,21 +8,30 @@
 
 ## Nome do Grupo -Inova Saúde
 
-## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes</a>, <a href="https://github.com/erikasntn">Luiza Domingues Chaveiro Correia</a>, <a href="https://github.com/LuanMeirelesFranchini"Daniela Pauzer </a>, <a href="https://github.com/luiza1205">Enzo Sangiacomo</a>
+## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes</a>, <a href="https://github.com/luiza1205">Luiza Domingues Chaveiro Correia</a>, <a "Daniela Pauzer </a>, <a >Enzo Sangiacomo</a>
 
 ## Professores Orientadores: Victor Rosetti
 ![](https://github.com/2024-1-NADS1-B/Projeto6/blob/main/imagens/b1a69324-107f-4ed0-8a6b-f78b9694f82b.jpg)
+https://github.com/2024-2-NADS2/Projeto1
 ## Descrição
 <p> O projeto tem como objetivo </p>
 
 O projeto tem como função principal a acessibilidade para todos com agendamentos medicos, informações a respeito de exames, consultas, convênio médico(informações a respeito do convênio dar cobertura para o hospital ou não). Além de funções secundarias como doações tanto de utensílios para o uso dos pacientes, quanto doação de sangue.
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->RioRenovado_-_PI.docx<br>
-  &emsp;|-->RioRenovado_-_PI.pdf<br>
-
+-Raiz
+|
+|-->documentos
+ |-->antigos
+ |Documentação.docx
+|-->executáveis
+ |-->windows
+ |-->android
+ |-->HTML
+|-->imagens
+|-->src
+ |-->Backend
+ |-->Frontend
+|readme.md
   
 |-->imagens<br>
  
@@ -48,9 +57,9 @@ Há também 3 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Arduino:</b>
+<b>React, C#, HTML, CSS, JavaScript</b>
 
-Faça o Download plataforma arduino computador para executar o código.
+Execute o link do sistema em seu computador para ter acesso ao site.
 
 
 ## 💻 Configuração para Desenvolvimento
