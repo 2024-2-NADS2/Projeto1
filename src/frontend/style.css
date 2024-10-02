@@ -1,0 +1,298 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: Arial, serif;
+    background-color: rgb(226, 242, 255);
+    height: 100%;
+    flex-direction: column; /* Permite que o rodapé vá para o final da tela */
+}
+
+header {
+    background-color: #ffffff; 
+    height: 288px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    flex: 1;
+    display: flex;
+    justify-content: center; /* Centraliza o container de botões horizontalmente */
+    align-items: center; /* Alinha o container de botões verticalmente */
+    height: calc(100vh - 288px); /* Ajusta a altura para ocupar o espaço restante */
+}
+
+.slider-container {
+    width: 100%;
+    height: 500px; /* Ajuste a altura conforme necessário */
+    background-color: transparent;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    /* Adicione mais estilos conforme necessário */
+}
+
+.slide {
+    width: 100%;
+    height: 100%; /* Define a altura do slide, ajuste conforme necessário */
+    background-color: rgba(0, 0, 0, 0.5); /* Apenas para visibilidade */
+    opacity: 0;
+    transition: opacity 3s ease-in-out;
+    position: absolute;
+    bottom: 0; /* Posiciona o slide na parte inferior do slider-container */
+}
+
+.active {
+    opacity: 1;
+    position: relative;
+}
+
+.nav-buttons {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+.nav-buttons button {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: white;
+    width: 60px; /* Define uma largura fixa */
+    height: 50px; /* Define uma altura fixa */
+    font-size: 12px; /* Ajusta o tamanho do texto */
+    border-radius: 5px; /* Adiciona bordas arredondadas */
+    display: flex; /* Para centralizar o texto dentro do botão */
+    align-items: center; /* Centraliza o texto verticalmente */
+    justify-content: center; /* Centraliza o texto horizontalmente */
+    cursor: pointer;
+    pointer-events: all;
+}
+
+
+.nav-buttons button:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.search-button {
+    position: fixed;
+    top: 50px; /* Distância do topo */
+    right: 400px; /* Distância da borda direita */
+    height: 45px;
+    background-color: #ffffff;
+    color: rgb(171, 171, 171);
+    border: none;
+    cursor: pointer;
+    width: 600px; /* Ajuste a largura conforme necessário */
+    padding: 10px 20px;
+    border-radius: 500px;
+    text-align: center; /* Centraliza o texto dentro do botão */
+}
+
+.png-search{
+    width: 20px;
+    height: 20px;
+    
+}
+.search-button:hover {
+    background-color: #e0e0e0;
+}
+.logo-Inova{
+    width: 15%;
+    height: 100px;
+    top: 7px;
+    left: -1.5px;
+    text-align: center;
+    position: absolute;
+    justify-content: flex-start;
+    padding: 3px;
+    border-radius: 30px;
+}
+
+button {
+    background-color: #086ae9;
+    height: 120px;
+    width: 235px;
+    font-size: 20px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border-radius: 13px;
+    padding: 9px 20px;
+    transition: background-color 0.3s ease;
+    border: none; /* Remove a borda padrão dos botões */
+    color: white; /* Define a cor do texto dentro do botão */
+    display: flex; /* Opcional: para garantir que o conteúdo dentro do botão esteja centralizado */
+    align-items: center; /* Opcional: para centralizar verticalmente o conteúdo do botão */
+    justify-content: center; /* Opcional: para centralizar horizontalmente o conteúdo do botão */
+}
+
+.content {
+    gap: 10px;
+    justify-content: center; /* Centraliza o container de botões horizontalmente */
+    align-items: center; /* Alinha o container de botões verticalmente */
+    height: calc(100vh - 288px); /* Ajusta a altura para ocupar o espaço restante */
+}
+
+.button-container {
+    display: flex; /* Torna o contêiner de botões um flex container */
+    gap: 10px; /* Espaço entre os botões */
+    justify-content: center; /* Alinha os botões no centro do container */
+    padding: 20px; /* Adiciona espaço ao redor dos botões */
+    height: 150px;
+}
+
+button:hover {
+    background-color: #0056b3; /* Cor de fundo ao passar o mouse */
+}
+#botao5{
+    background-color: #ff6e4a;
+
+}
+#botao5:active{
+    background-color: #d40000;
+
+}
+#botao5:hover{
+    background-color: #ff5353;
+}
+#botao6 {
+    background-color: #4682B4;
+    width: 150px;
+    height: 50px;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: fixed;
+    top: 50px;
+    padding: 10px 5px;
+    border-radius: 150px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 90px;
+    right: 70px;
+
+}
+
+#botao6:active {
+    background-color: #ffffff;
+}
+
+#botao6:hover {
+    background-color: #86b5db;
+}
+
+.btn {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    text-align: center;
+    border-radius: 10px; 
+    transition: background-color 0.3s ease;
+}
+
+
+    
+.content {
+    flex: 1;
+    /* Ajuste a altura do conteúdo principal se necessário */
+}
+
+/* Estilo para o botão flutuante */
+.floating-button {
+    position: fixed; /* Torna o botão fixo na tela */
+    bottom: 15px; /* Distância da parte inferior */
+    right: 10px; /* Distância da parte direita */
+    width: 80px; /* Largura do botão */
+    height: 60px; /* Altura do botão */
+    background-color: #d40000; /* Cor de fundo do botão */
+    color: rgb(255, 255, 255); /* Cor do texto */
+    border: none; /* Remove a borda padrão */
+    border-radius: 100%; /* Faz o botão ser redondo */
+    font-size: 13px; /* Tamanho da fonte */
+    display: flex; /* Usado para centralizar o texto dentro do botão */
+    align-items: center; /* Alinha o texto verticalmente */
+    justify-content: center; /* Alinha o texto horizontalmente */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra do botão */
+    cursor: pointer; /* Muda o cursor para mãozinha quando passa sobre o botão */
+    transition: background-color 0.5s, box-shadow 0.1s; /* Transição suave para hover */
+    overflow: visible; /* Garante que a animação não transborde o botão */
+}
+
+/* Efeito de hover */
+.floating-button:hover {
+    background-color: #ff5353; /* Cor de fundo ao passar o mouse */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.432); /* Sombra ao passar o mouse */
+}
+
+/* Estilo para o efeito de sonar */
+.floating-button::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 130px; /* Largura da onda */
+    height: 130px; /* Altura da onda */
+    background: rgba(255, 0, 0, 0.2); /* Cor e opacidade inicial da onda */
+    border-radius: 50%; /* Torna a onda redonda */
+    transform: translate(-50%, -50%) scale(0); /* Centraliza a onda e começa pequena */
+    animation: sonar 2s infinite; /* Animação de sonar */
+    pointer-events: none; /* Garante que o efeito não interfira no botão */
+}
+
+/* Animação do efeito de sonar */
+@keyframes sonar {
+    0% {
+        transform: translate(-50%, -50%) scale(0.5); /* Começa pequeno */
+        opacity: 0; /* Totalmente transparente no início */
+    }
+    50% {
+        transform: translate(-50%, -50%) scale(1); /* Aumenta até o tamanho total */
+        opacity: 0.3; /* Tornando o efeito ligeiramente visível */
+    }
+    100% {
+        transform: translate(-50%, -50%) scale(1.2); /* Expande além do botão */
+        opacity: 0; /* Torna o efeito invisível novamente */
+    }
+}
+.botao-chat {
+    position: fixed; /* Torna o botão fixo na tela */
+    bottom: 90px; /* Distância da parte inferior */
+    right: 20px; /* Distância da parte direita */
+    width: 60px; /* Largura do botão */
+    height: 40px; /* Altura do botão */
+    background-color: #A7B9D0; /* Cor de fundo do botão */
+    color: rgb(255, 255, 255); /* Cor do texto */
+    border: none; /* Remove a borda padrão */
+    border-radius: 100%; /* Faz o botão ser redondo */
+    font-size: 15px; /* Tamanho da fonte */
+    display: flex; /* Usado para centralizar o texto dentro do botão */
+    align-items: center; /* Alinha o texto verticalmente */
+    justify-content: center; /* Alinha o texto horizontalmente */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra do botão */
+    cursor: pointer; /* Muda o cursor para mãozinha quando passa sobre o botão */
+    transition: background-color 0.5s, box-shadow 0.1s; /* Transição suave para hover */
+    overflow: visible; /* Garante que a animação não transborde o botão */
+}
+#png-chat{
+    position: fixed;
+    width: 15px;
+    
+}
+
+
+
+
+
+
+
+
+footer {
+    background-color: #4682B4; /* Cor de fundo do rodapé */
+    color: #fff; /* Cor do texto do rodapé */
+    padding: 20px 0; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto dentro do rodapé */
+    width: 100%; /* Garante que o rodapé ocupe toda a largura da tela */
+}
