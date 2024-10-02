@@ -60,6 +60,10 @@ Há também 3 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
+## Montagem:
+![homepage inovasaude](https://github.com/user-attachments/assets/829c7848-31aa-441e-bd24-99252317b52e)
+
+
 ## 🛠 Instalação
 
 <b>React, C#, HTML, CSS, JavaScript</b>
@@ -70,10 +74,6 @@ Execute o link do sistema em seu computador para ter acesso ao site.
 ## 💻 Configuração para Desenvolvimento
 
 Para abrir este projeto
-
-
-## Montagem:
-![homepage inovasaude](https://github.com/user-attachments/assets/829c7848-31aa-441e-bd24-99252317b52e)
 
 
 
