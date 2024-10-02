@@ -16,14 +16,14 @@ https://github.com/2024-2-NADS2/Projeto1
 ![inovasaude](https://github.com/user-attachments/assets/a8b1738e-0a62-41e2-a2ce-922b4c5d6961)
 
 <p> O projeto tem como objetivo </p>
-
-### Descrição do Projeto: Site Hospitalar Público
-
-O objetivo deste projeto é desenvolver um site intuitivo e acessível para um hospital público, que facilite o acesso à informação, agendamento de consultas e a comunicação entre pacientes e a equipe médica. O público-alvo abrange pacientes, familiares, profissionais de saúde, estudantes e a comunidade em geral.
+<p>O objetivo deste projeto é desenvolver um site intuitivo e acessível para um hospital público, que facilite o acesso à informação, agendamento de consultas e a comunicação entre pacientes e a equipe médica. O público-alvo abrange pacientes, familiares, profissionais de saúde, estudantes e a comunidade em geral.
 Uma funcionalidade essencial será o sistema de agendamento de consultas, permitindo que os usuários agendem consultas e exames online, visualizando horários disponíveis e recebendo confirmações imediatas. Haverá também uma área do paciente, onde poderão acessar resultados de exames e histórico médico.
 Para promover a educação em saúde, o site incluirá artigos e vídeos sobre prevenção de doenças e dicas de bem-estar. Haverá uma área para doações onde poderá doar roupas, sangue e mais. 
 
-O site da Inova Saúde será uma ferramenta essencial para promover a saúde e o bem-estar da população, tornando o acesso a serviços e informações mais eficiente e inclusivo.
+O site da Inova Saúde será uma ferramenta essencial para promover a saúde e o bem-estar da população, tornando o acesso a serviços e informações mais eficiente e inclusivo.</p>
+### Descrição do Projeto: Site Hospitalar 
+
+
 
 -Raiz
 |
