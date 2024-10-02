@@ -8,10 +8,9 @@
 
 ## Nome do Grupo -Inova Saúde
 
-## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes</a>, <a href="https://github.com/luiza1205">Luiza Domingues Chaveiro Correia</a>, Daniela Pauzer </a>, <a >Enzo Sangiacomo</a>
+## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes</a>, <a href="https://github.com/luiza1205">Luiza Domingues Chaveiro Correia</a>,<a href="https://github.com/DaniPauzerAds"> Daniela Pauzer </a>, <a href="https://github.com/enzosangiacomo">Enzo Sangiacomo</a>
 
 ## Professores Orientadores: Victor Rosetti
-![](https://github.com/2024-1-NADS1-B/Projeto6/blob/main/imagens/b1a69324-107f-4ed0-8a6b-f78b9694f82b.jpg)
 https://github.com/2024-2-NADS2/Projeto1
 ## Descrição
 ![inovasaude](https://github.com/user-attachments/assets/a8b1738e-0a62-41e2-a2ce-922b4c5d6961)
@@ -36,6 +35,8 @@ O projeto tem como função principal a acessibilidade para todos com agendament
 |readme.md
   
 |-->imagens<br>
+![homepage inovasaude](https://github.com/user-attachments/assets/df17e995-8d80-4779-8ab5-7e173085646c)
+
  
   &emsp;|-->projeto2.jpg<br>
   &emsp;|-->projeto3.jpg<br>
@@ -66,27 +67,13 @@ Execute o link do sistema em seu computador para ter acesso ao site.
 
 ## 💻 Configuração para Desenvolvimento
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+Para abrir este projeto
 
-1 Arduino UNO <br>
-1 Motor Shield L293D <br>
-1 Bateria 7.4V 2200mAh <br>
-1 Módulo Bluetooth AT-09 (para Iphone e Android) ou HM-05 (só para android) <br>
-1 Bateria 9v <br>
-1 Clip bateria 9v com conector P4 <br>
-2 Motores DC 370 33600rpm 6v 7.4v <br>
-1 chapa de foam <br>
-Arame da mesma grossura do eixo do motor <br>
-Barra sindal pequena <br>
-Jumpers variados <br>
 
 ## Montagem:
-1 - Baixe o Arduino IDE (Programação escrita) ou o Pictoblox (Programação em blocos) <br>
-2 - Imprima o conteúdo de Cortes. jpg <br> 
-3 - Cole as partes impressas na chapa de foam. <br>
-4 - Abra o Barco celular.ino para o Arduino IDE ou o Barco celular. sb3 para o Pictoblox. <br>
-5 - Siga a imagem abaixo.  <br>
-![](https://github.com/2024-1-NADS1-B/Projeto6/blob/main/imagens/dd5eeeda-47d1-45de-a407-29798ed6939d.jpg)
+![homepage inovasaude](https://github.com/user-attachments/assets/829c7848-31aa-441e-bd24-99252317b52e)
+
+
 
 ## 🗃 Histórico de lançamentos
 
