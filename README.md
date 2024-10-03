@@ -60,7 +60,7 @@ Há também 3 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## Montagem:
+## Pagina Inicial:
 ![homepage inovasaude](https://github.com/user-attachments/assets/829c7848-31aa-441e-bd24-99252317b52e)
 
 
