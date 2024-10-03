@@ -1,57 +1,95 @@
-:root{
-    --color-primaria:#1A4D8F;
-    --font-family:(--font-family)
-}
 .principal{
-    display: flex;
-    height: 700px;
+    height: 870px;
     margin-top: 0%;
+    display: grid;
+    place-items: center;
+    
 }
 .um{
-    background-color: #CBDCF3;
+    background-color: #a5c7f3;
     height: 100%;
-    width: 50%;
+    width: 100%;
     text-align: center;
     margin-top: 0%;
     color:var(--color-primaria);
-    border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 .dois{
-    background-color: #fff;
+    background-color: #e4e4e4;
     height: 100%;
-    width: 50%;
+    width: 100%;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 0%;
     color:var(--color-primaria);
     font-family: Arial, Helvetica, sans-serif;
 }
 .login{
     text-align: center;
+    border-radius: 30px;
+    width: 300px;
     margin-top: 100px;
+    font-size: 40px;
+    background-color: #a5c7f3;
+    color: #1a4d8f;
+
 }
+
 .crie_agora{
-    margin-top: 100px;
     text-align: center;
+    border-radius: 30px;
+    width: 300px;
+    margin-top: 100px;
+    font-size: 40px;
+    background-color: #5096f1;
+    color: #1a4d8f;
 }
 
 .voltar{
     position: relative;
+    margin-left: 20px;
     left: 10px;
     top:20px;
-    
+    text-align: center;
+    align-items: left;
+    float: left;
+    width: 100px;
+    border-radius: 20px;
+    color: #1a4d8f;
     
 }
 
 .formulario{
-  
+    margin-top: 50px;
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+
+    /*float: inherit;
     height: 100%;
     width: 50%;
     text-align: center;
     margin-top: 0%;
-   
-    border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
+    align-items: center;*/
+}
 
+.formulario input{
+    font-size: 16px;
+    padding: 10px;
+    width: 300px;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+.Bem-Vindo{
+    font-size: 40px;;
+}
+.dados{
+    align-items: center;
+    text-align: center;
+
+}
+.Primeira_frase{
+    font-size: 30px;
 }
