@@ -80,14 +80,6 @@ Para abrir este projeto
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.0 - 25/04/2024
-    * Apresentação do projeto
-* 0.1.1 - 29/03/2024
-    * Montagem física do projeto e realização do código
-* 0.1.0 - 18/03/2024
-    * Compra da lista de materiais necessários
-* 0.0.1 - 11/03/2024
-    * Decisão do tema
 ## 📋 Licença/License
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-1-NADS1-B/Projeto6">Rio Renovado</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/2024-1-NADS1-B/Projeto6">FECAP, Adeilson Nunes da Costa, Erika Santana da Silva, Luan Meireles Franchini, Luiza Domingues Chaveiro Correia </a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
@@ -95,6 +87,6 @@ Para abrir este projeto
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://docs.blynk.io/en>
-2. Aulas de iot
-3. <https://www.arduino.cc/reference/pt/>
+1. 
+2. 
+3. 
