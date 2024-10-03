@@ -21,6 +21,9 @@ Para promover a educação em saúde, o site incluirá artigos e vídeos sobre p
 
 O site da Inova Saúde será uma ferramenta essencial para promover a saúde e o bem-estar da população, tornando o acesso a serviços e informações mais eficiente e inclusivo.</p>
 
+## Pagina Inicial:
+![homepage inovasaude](https://github.com/user-attachments/assets/829c7848-31aa-441e-bd24-99252317b52e)
+
 ## Estruturas de pastas 
 
 -Raiz
@@ -60,8 +63,6 @@ Há também 3 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## Pagina Inicial:
-![homepage inovasaude](https://github.com/user-attachments/assets/829c7848-31aa-441e-bd24-99252317b52e)
 
 
 ## 🛠 Instalação
