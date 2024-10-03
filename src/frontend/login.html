@@ -7,36 +7,46 @@
     <title>login</title>
 </head>
 
-<body>
     <div class="principal">
         <div class="um">
             <button class="voltar">Voltar</button>
-            <h1>Bem-Vindo de volta!</h1>
-            <p>Já tem uma conta? Conecte-se aqui</p>
+            <h1 class="Bem-Vindo">Bem-Vindo de volta!</h1>
+            <p class="Primeira_frase">Já tem uma conta? Conecte-se aqui</p>
             <button class="login">Login</button>
         </div>
         <div class="dois">
             <h1> Crie sua conta</h1>
             <p> Crie sua conta agora com facilidade e praticidade</p>
-            <button class="crie_agora">Crie agora</button>
+        
+            <div>
+                <form id="formulario" class="formulario">
+                    <div class="dados">
+                        <label for="name" class="name"></label>
+                        <input type="text" id="name" name="name" placeholder="Digite seu nome" required><br>
+                    </div>
+            
+                    <div class="dados">
+                        <label for="telefone" class="Telefone"></label>
+                        <input type="text" id="telefone" name="telefone" placeholder="Digite seu telefone" required><br>
+                    </div>
+            
+                    <div class="dados">
+                        <label for="email" class="email"></label>
+                        <input type="text" id="email" name="email" placeholder="Digite seu email" required><br>
+                    </div>
+            
+                    <div class="dados">
+                        <label for="senha" class="senha"></label>
+                        <input type="password" id="senha" name="senha" placeholder="Digite sua senha" required><br>
+                    </div>
+                </form>
             </div>
-        <div>
-            <form id="formulario" class="formulario">
-                <label for ="name" class="name">Nome:</label>
-                <input type="text" id="name" name="name" required>
+                <button class="crie_agora">Crie agora</button>
 
-                <label for ="telefone" class="Telefone">Telefone:</label>
-                <input type="text" id="telefone" Telefone="telefone" required>
-
-                <label for ="email" class="email">Email:</label>
-                <input type="text" id="email" Email="email" required>
-
-                <label for ="senha" class="senha">Senha:</label>
-                <input type="text" id="senha" Senha="senha" required>
             </div>
 
             </form>
         
     </div>
-</body>
+
 </html>
