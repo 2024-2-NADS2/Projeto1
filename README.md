@@ -13,7 +13,7 @@
 ## Professores Orientadores: Victor Rosetti
 https://github.com/2024-2-NADS2/Projeto1
 ## Descrição
-![inovasaude](https://github.com/user-attachments/assets/a8b1738e-0a62-41e2-a2ce-922b4c5d6961)
+![inovasaude]()
 
 <p>O objetivo deste projeto é desenvolver um site intuitivo e acessível para um hospital público, que facilite o acesso à informação, agendamento de consultas e a comunicação entre pacientes e a equipe médica. O público-alvo abrange pacientes, familiares, profissionais de saúde, estudantes e a comunidade em geral.
 Uma funcionalidade essencial será o sistema de agendamento de consultas, permitindo que os usuários agendem consultas e exames online, visualizando horários disponíveis e recebendo confirmações imediatas. Haverá também uma área do paciente, onde poderão acessar resultados de exames e histórico médico.
@@ -29,16 +29,16 @@ O site da Inova Saúde será uma ferramenta essencial para promover a saúde e o
 -Raiz
 |
 |-->documentos
- |-->antigos
- |Documentação.docx
+|-->antigos
+|Documentação.docx
 |-->executáveis
- |-->windows
- |-->android
- |-->HTML
+|-->windows
+|-->android
+|-->HTML
 |-->imagens
 |-->src
- |-->Backend
- |-->Frontend
+|-->Backend
+|-->Frontend
 |readme.md
   
 
