@@ -7,7 +7,6 @@
     --cor-menu-hover:#fff;
 
 }
-/*estrutura*/
 body{
     margin:0;
     font-family:Arial, Helvetica, sans-serif;
@@ -29,7 +28,7 @@ header, aside, main, article, footer{
 
 
 }
-/*Menu do topo*/
+
 .menu{
     display: flex;
     align-items: center;
@@ -81,7 +80,7 @@ background-color: rgb(41, 88, 126);
 .cadastro:hover{
     background-color:#e2e2e2 ;
 }
-/*botões do topo*/
+
 
 .menu{
     display: flex;
@@ -118,7 +117,7 @@ background-color: rgb(41, 88, 126);
     background-color: #b9c4da;
     transition-duration: 0,4s;
 }
-/*botões do topo*/
+
 /*frase*/
 .frase{
     
