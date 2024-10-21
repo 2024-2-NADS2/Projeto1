@@ -11,7 +11,7 @@
 ## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes</a>, <a href="https://github.com/luiza1205">Luiza Domingues Chaveiro Correia</a>,<a href="https://github.com/DaniPauzerAds"> Daniela Pauzer </a>, <a href="https://github.com/enzosangiacomo">Enzo Sangiacomo</a>
 
 ## Professores Orientadores: Victor Rosetti
-https://github.com/2024-2-NADS2/Projeto1
+
 ## Descrição
 ![inovasaude]()
 
@@ -64,10 +64,8 @@ Há também 3 pastas que seguem da seguinte forma:
 
 
 ## 🛠 Instalação
-
-<b>React, C#, HTML, CSS, JavaScript</b>
-
-Execute o link do sistema em seu computador para ter acesso ao site.
+HTML:
+Não há instalação! Encontre o o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 
 ## 💻 Configuração para Desenvolvimento
