@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inova Saúde</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+<div class="container">
+    <header>
+        <nav class="menu">
+            <div class="logo">logo da empresa</div>
+                <div>
+                    <button class="doação"></buttonclass>Doação</button>
+                </div>
+
+            <div>
+                <button class="cadastro">Cadastre-se/Faça Login</button>
+            </div>
+        </nav>
+    </header>
+</div>
+
+<div class="botões">
+    <nav class="botões">
+        <ul class="botões-items">
+            <li><a href=""><button>Convênios</button></a></li>
+            <li><a href=""><button>Agendamento</button></a></li>
+            <li><a href=""><button>Resultados</button></a></li>
+            <li><a href=""><button>Farmácia</button></a></li>
+            <li><a href=""><button>Educação</button></a></li>
+        </ul>
+
+    </nav>
+</div>
+
+<div class="frase">
+    <p>Inova Saúde: Cuidando com carinho, inovando para o bem-estar</p>
+</div>
+
+<div class="slider-container">
+    <a href="pagina1.html" class="slide-link">
+        <img src="img/imagem01.jpeg" class="slide active">
+    </a>
+    <a href="pagina1.html" class="slide-link">
+        <img src="img/imagem02.jpeg" class="slide active">
+    </a>
+    <a href="pagina1.html" class="slide-link">
+        <img src="img/imagem03.jpeg" class="slide active">
+    </a>
+    <div class="nav-buttons">
+        <button id="prev">Anterior</button>
+        <button id="next">Próximo</button>
+    </div>
+</div>
+
+
+<footer>
+    <div class="footer-container">
+        <div>
+            <h2>Sobre Nós</h2>
+          
+                <P>Inova Saúde: uma empresa dedicada
+                a </br> fornecer os melhores serviços de saúde<br>
+                e bem estar.</p>
+        </div>
+        <div>
+            <h2>Links Rápidos</h2>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="#">Contato</a></li>
+                
+            </ul>
+        </div>
+        <div>
+            <h2>Contate-nos</h2>
+            <p>Email: <a href="mailto:Inovasaude@empresa.com">Inovasaude@empresa.com</a></p>
+            <p>Telefone: (11) 1234-5678</p>
+        </div>
+    </div>
+    
+
+
+
+
+
+
+
+    
+<script src="script.js"></script>
+</body>
