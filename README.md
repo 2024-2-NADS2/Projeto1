@@ -77,6 +77,6 @@ Para abrir este projeto
 
 Aqui estão as referências usadas no projeto.
 
-1. 
+1. https://creativecommons.org/share-your-work/
 2. 
 3. 
