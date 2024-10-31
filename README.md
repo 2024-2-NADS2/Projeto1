@@ -8,9 +8,9 @@
 
 ## Nome do Grupo -Inova Saúde
 
-## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes</a>, <a href="https://github.com/luiza1205">Luiza Domingues Chaveiro Correia</a>,<a href="https://github.com/DaniPauzerAds"> Daniela Pauzer </a>, <a href="https://github.com/enzosangiacomo">Enzo Sangiacomo</a>
+## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes da Costa</a>, <a href="https://github.com/luiza1205">Luiza Domingues Chaveiro Correia</a>,<a href="https://github.com/DaniPauzerAds"> Daniela Giacomo Pauzer </a>, <a href="https://github.com/enzosangiacomo">Enzo Sangiacomo Duela de Andrade</a>
 
-## Professores Orientadores: Victor Rosetti
+## Professores Orientadores:  Victor Rosetti, Aimar Lopes, Eduardo Savino, Francisco Escobar, José Buesso
 
 ## Descrição
 ![inovasaude]()
