@@ -30,23 +30,17 @@ O site da Inova Saúde será uma ferramenta essencial para promover a saúde e o
 |
 <br>|-->documentos<br>
 <br> |-->antigos <br>
- |Documentação.docx
-|-->executáveis
- |-->windows
- |-->android
- |-->HTML
-|-->imagens
+<br> |Documentação.docx
+<br>|-->executáveis
+<br> |-->windows
+ <br>|-->android
+<br> |-->HTML
+<br>|-->imagens
 |-->src
  |-->Backend
  |-->Frontend
 |readme.md
- 
-  &emsp;|-->projeto2.jpg<br>
-  &emsp;|-->projeto3.jpg<br>
-  &emsp;|-->projeto4.jpg<br>
-|-->src<br>
-  &emsp;|-->rio.ino<br>
-  &emsp;|-->rio2.ino<br>
+
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
