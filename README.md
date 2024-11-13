@@ -6,7 +6,7 @@
 
 # Projeto Inova Saúde
 
-## Nome do Grupo -Inova Saúde
+## Nome do Grupo Inova Saúde
 
 ## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes da Costa</a>, <a href="https://github.com/luiza1205">Luiza Domingues Chaveiro Correia</a>,<a href="https://github.com/DaniPauzerAds"> Daniela Giacomo Pauzer </a>, <a href="https://github.com/enzosangiacomo">Enzo Sangiacomo Duela de Andrade</a>
 
@@ -21,7 +21,7 @@ Para promover a educação em saúde, o site incluirá artigos e vídeos sobre p
 
 O site da Inova Saúde será uma ferramenta essencial para promover a saúde e o bem-estar da população, tornando o acesso a serviços e informações mais eficiente e inclusivo.</p>
 
-## Pagina Inicial:
+## Pagina Inicial🎨
 ![homepage inovasaude](https://github.com/user-attachments/assets/829c7848-31aa-441e-bd24-99252317b52e)
 
 ## Estruturas de pastas 
