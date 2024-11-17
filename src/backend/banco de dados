@@ -1,1 +1,21 @@
-https://codesandbox.io/p/devbox/inovasaude-2sxdrc?file=%2FBD%2Fbd%20inovasaude.sql
+https://codesandbox.io/p/devbox/inovasaude-2sxdrc?file=%2FBD%2Fbd%20inovasaude.sql%3A1%2C1-19%2C1
+
+CREATE DATABASE inovasaude;
+USE inovasaude;
+CREATE TABLE pacientes(
+	id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+     descricao VARCHAR(255) NOT NULL,
+    foto VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);	
+CREATE TABLE funcionarios(
+	id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+     descricao VARCHAR(255) NOT NULL,
+    foto VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);	
+
+
+
