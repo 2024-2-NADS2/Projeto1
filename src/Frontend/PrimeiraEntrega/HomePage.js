@@ -16,15 +16,15 @@ document.addEventListener('DOMContentLoaded', function () {
         showSlide(currentSlide);
     }
 
-    // Adiciona evento para o botão "Próximo"
+   
     document.getElementById('next').addEventListener('click', nextSlide);
 
-    // Adiciona evento para o botão "Anterior"
+    
     document.getElementById('prev').addEventListener('click', function () {
         currentSlide = (currentSlide - 1 + slides.length) % slides.length;
         showSlide(currentSlide);
     });
 
-    // Faz o slide rodar automaticamente a cada 3 segundos (3000 milissegundos)
+   
     setInterval(nextSlide, 3000);
 });
