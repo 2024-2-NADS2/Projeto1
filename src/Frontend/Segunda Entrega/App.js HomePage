@@ -1,0 +1,19 @@
+import React from "react";
+import Header from "./components/Header";
+import Navbar from "./components/Navbar";
+import CampaignSlider from "./components/CampaignSlider";
+import Footer from "./components/Footer";
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <Header />
+      <Navbar />
+      <CampaignSlider />
+      <Footer />
+    </div>
+  );
+}
+
+export default App;
