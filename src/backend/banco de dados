@@ -1,21 +1,30 @@
-https://codesandbox.io/p/devbox/inovasaude-2sxdrc?file=%2FBD%2Fbd%20inovasaude.sql%3A1%2C1-19%2C1
 
-CREATE DATABASE inovasaude;
-USE inovasaude;
-CREATE TABLE pacientes(
-	id INT AUTO_INCREMENT PRIMARY KEY,
-    nome VARCHAR(255) NOT NULL,
-     descricao VARCHAR(255) NOT NULL,
-    foto VARCHAR(255) NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);	
-CREATE TABLE funcionarios(
-	id INT AUTO_INCREMENT PRIMARY KEY,
-    nome VARCHAR(255) NOT NULL,
-     descricao VARCHAR(255) NOT NULL,
-    foto VARCHAR(255) NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);	
+CREATE DATABASE IF NOT EXISTS hospital_system;
+USE hospital_system;
 
 
+CREATE TABLE IF NOT EXISTS pacientes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    idade INT NOT NULL,
+    genero VARCHAR(10),
+    contato VARCHAR(50)
+);
+
+
+CREATE TABLE IF NOT EXISTS medicos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    especialidade VARCHAR(100) NOT NULL
+);
+
+
+CREATE TABLE IF NOT EXISTS consultas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    data DATETIME NOT NULL,
+    paciente_id INT,
+    medico_id INT,
+    FOREIGN KEY (paciente_id) REFERENCES pacientes(id) ON DELETE SET NULL ON UPDATE CASCADE,
+    FOREIGN KEY (medico_id) REFERENCES medicos(id) ON DELETE SET NULL ON UPDATE CASCADE
+);
 
