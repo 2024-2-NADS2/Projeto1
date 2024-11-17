@@ -18,7 +18,7 @@ function Footer() {
       <div className="contact">
         <h4>Contate-nos</h4>
         <p>Email: contato@inovasaude.com.br</p>
-        <p>Telefone: (99) 99999-9999</p>
+        <p>Telefone: (11) 1234-5678</p>
       </div>
     </footer>
   );
