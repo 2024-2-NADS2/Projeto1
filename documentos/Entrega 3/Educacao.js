@@ -11,14 +11,14 @@ const EducacaoPage = () => {
         <section className="content">
           <h2>Mitos e Verdades sobre o Suicídio</h2>
           <img
-            src="https://via.placeholder.com/800x400"
+            src="https://unsplash.com/pt-br/fotografias/texto-LQGQbssFs-M"
             alt="Imagem de conscientização sobre o suicídio"
             className="banner-image"
           />
 
           <div className="faq">
             <div className="question-answer">
-              <strong>1 - Quando a pessoa tem um pensamento suicida poderá voltar ter pelo resto da vida?</strong>
+              <strong>1 - Quando a pessoa tem um pensamento suicida poderá voltar a ter pelo resto da vida?</strong>
               <p>
                 Mito. O pensamento suicida pode ser devidamente tratado ajudando
                 a pessoa a viver sem esse peso.
